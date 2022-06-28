@@ -1,6 +1,6 @@
 <img src="https://d33wubrfki0l68.cloudfront.net/52095f1989c853d702c0fae4368b0dfd076adaec/9e93e/img/memoji1.png" min-width="200px" max-width="200px" width="300px" align="right">
 
- ## Hi my name is Robertt Souza<img src="https://media.giphy.com/media/YoKkAVvZpXNnCxxVsJ/giphy.gif" width="70px">
+ ## Hi my name is Robertt Souza<img src="https://media.giphy.com/media/YoKkAVvZpXNnCxxVsJ/giphy.gif" width="10%">
 <p align="left"> 
  I am student <strong>Front-end</strong> and <strong>UI/UX Design</strong>.
 </p>
@@ -37,7 +37,7 @@
 ----
 
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px"> Skills:
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="5%"> Skills:
 
 <table><tr><td valign="top" width="25%">
 
@@ -95,7 +95,7 @@
 
 
 <p align="left">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px"> if want talk, contact me ⤵️
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="5%"> if want talk, contact me ⤵️
 </p>
 
 <p align="left">
